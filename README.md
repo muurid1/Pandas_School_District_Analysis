@@ -83,8 +83,7 @@ The School Summary changes, since we are still using the total number of student
 
 ###### Scores by School Spending
 
-<img width="839" alt="Screen Shot 2022-07-17 at 1 47 06 AM" src="https://user-images.githubusercontent.com/107282754/179387392-d6f54bcf-5cdf-4a07-9bad-3899e9df2e06.png">
-
+<img width="973" alt="Screen Shot 2022-07-17 at 1 58 38 AM" src="https://user-images.githubusercontent.com/107282754/179387697-6c92e42a-9932-45f1-a9b9-cf6d68459c74.png">
 
 ###### Scores by School type
 
